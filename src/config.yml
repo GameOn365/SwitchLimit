@@ -1,0 +1,9 @@
+# How long does a player need to wait between switching servers?
+limit-seconds: 15
+
+# What message should the player be shown when /server is on cooldown for them.
+message: 'You must wait 15 seconds before using /server again.'
+
+# The command(s) players use to switch servers, as a regular expression searching chat messages.
+# Don't modify this unless you know what you're doing.  
+command-regex: '$/server'

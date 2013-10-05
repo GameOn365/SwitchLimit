@@ -1,0 +1,7 @@
+name: SwitchLimit
+main: net.gameon365.mc.plugins.bungee.switchlimit.SwitchLimit
+version: 1
+author: NickG365
+depends: ['BungeeYAML']
+#website: http://gameon365.net
+#email: nick@gameon365.net
